@@ -1,16 +1,7 @@
-# attune
+Attune is a music recognition app which can run on any operating system be it Android or IOS.
 
-A new Flutter project.
+It listens to an audio clip and recognises the song.
 
-## Getting Started
+Attune quickly turns your clip into an audio fingerprint and searches in the database, and if the song is recognised, it’s displayed.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
